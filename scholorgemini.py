@@ -2,7 +2,8 @@ import streamlit as st
 import google.generativeai as genai
 
 #Setting Gemini API key here
-genai.configure(api_key="Your_KEY_here")
+
+genai.configure(api_key=st.secrets["GEMINI_API_KEY"])
 
 # Title
 st.title("🎓 Scholarship Filter Tool ")
