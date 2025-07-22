@@ -60,7 +60,7 @@ Paste it in the app.py file
 ---
 
 Live Demo
-Example: https://github.com/meghashindhe/scholarship-filter-tool-geminiAI/blob/main/Screenshot%202025-07-22%20181857.png 
+Example: https://github.com/meghashindhe/scholarship-filter-tool-geminiAI/blob/main/Screenshot%202025-07-22%20181857.png  
 
 ---
 Purpose
